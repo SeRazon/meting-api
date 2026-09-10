@@ -21,7 +21,7 @@
   "devDependencies": {
     "esbuild-plugin-resolve": "^1.0.3",
     "esbuild-plugin-text-replace": "^1.2.0",
-    "vitest": "^4.1.8"
+    "vitest": "^4.1.11"
   },
   "dependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
